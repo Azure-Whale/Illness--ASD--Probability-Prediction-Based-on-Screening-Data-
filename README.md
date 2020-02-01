@@ -1,2 +1,2 @@
 # Illness (ASD) Probability Prediction Based on Screening Data 
- 
+  	Conducted data manipulation with Python to scrape & process medical survey data from online resource  	Implemented feature selection with RandomForest and conducted statistical analysis of feature impact to illness probability   	Built machine learning models (SVM, RandomForest, Bayes & etc.) with sk-learn to predict illness probability  	Optimized model performance by visualizing model learning curves and compare different metrics (ROC, AUC, confusion matrix)
